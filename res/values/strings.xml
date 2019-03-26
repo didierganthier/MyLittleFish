@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Little Fish</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">Little Fish</string>
+    <string name="title_activity_game_over">Game Over</string>
+	<string name="game_over">Game Over</string>
+	<string name="play_again">Play Again</string>
+	<string name="quit">Close App</string>
+	<string name="score">Score</string>
+</resources>
